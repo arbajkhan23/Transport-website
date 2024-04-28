@@ -45,7 +45,7 @@ if(document.getElementById("header")){
               Pages
             </a>
             <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="Project.html"> Project</a></li>
+            <li><a class="dropdown-item" href="project.html"> Project</a></li>
             <li><a class="dropdown-item" href="Project Singl.html">Our Project</a></li>
             <li><a class="dropdown-item" href="services.html">services</a></li>
             <li><a class="dropdown-item" href="services singl.html">our services</a></l
