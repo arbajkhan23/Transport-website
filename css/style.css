@@ -137,16 +137,16 @@ h6,
   background-repeat: no-repeat;
   background-size: cover;
 }
-/* .hero-img-3{
- background-image: url(..images/Background.svg);
+.hero-img-3{
+ background-image: url(../images/Background.svg);
  background-repeat: no-repeat;
  background-size: cover;
-} */
-/* .hero-img-4{
+}
+.hero-img-4{
   background-image: url(../images/Background-4.png); 
   background-repeat: no-repeat;
   background-size: cover;
-} */
+}
 .hero-img-5{
   background-image: url(../images/Background-5.png); 
   background-repeat: no-repeat;
